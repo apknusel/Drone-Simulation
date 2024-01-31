@@ -1,7 +1,7 @@
 # Drone Simulation
-## Team-001-06
-<p>Alex Knusel - knuse001<br>
-Hady Kotifani - kotif004</p>
+## Developers
+<p>Alex Knusel<br>
+Hady Kotifani</p>
 
 ## Video Demonstration
 https://youtu.be/eqPaqTn9HzA
